@@ -99,7 +99,11 @@ d)	The screenshot of the running app with all operation. Please put them to the 
 
 ## How to Begin:
 
-git clone https://github.com/tws-online-quiz/student-grade-command-pattern-java
+Get the practice repository:
+```
+ git clone https://github.com/ThoughtWorks-School-Showcase/student-grade-system-basic-java
+```
+
 Stack Initial and build:
 
 ```
@@ -116,6 +120,7 @@ Test:
 Mac/Linux: ./gradlew clean test 
 Whindows:  gradlew.bat clean test.
 ```
+
 
 ## Learn Resourse(Chinese Version):
 1. [任务分解](https://www.zybuluo.com/jtong/note/504192)
